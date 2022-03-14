@@ -1,0 +1,27 @@
+html, body {
+  height: 100%
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+button {
+  width: 100%
+}
+
+#root {
+    width: 100%;
+    max-width: 600px;
+}

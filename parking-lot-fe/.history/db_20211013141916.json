@@ -1,0 +1,10 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "title": "Meeting A",
+            "date": "2021-09-28",
+            "status": 1
+        }
+    ]
+}
